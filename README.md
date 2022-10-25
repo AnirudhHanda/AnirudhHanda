@@ -1,11 +1,13 @@
+![](https://github.com/AnirudhHanda/AnirudhHanda/blob/main/banner.png) 
+
 <h1 align="center">Hi fellas!, I'm Anirudh Handa 👋</h1>
 <h3 align="center">A Zealous Software Developer from India.</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developer;Java+Enthusiast;Learning+DSA;Video+Editor&center=true&width=500&height=100&size=30&duration=3800)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhhanda&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhhanda" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://anirudhhanda.github.io/Portfolio/](https://anirudhhanda.github.io/Portfolio/)
+<img src="https://github.com/AnirudhHanda/AnirudhHanda/blob/main/active.gif" width="300" align="right">
+- 👨‍💻 All of my projects are available at https://anirudhhanda.github.io/Portfolio/
 
 - 🔭 I’m currently working on Front-End Development and Java.
 - 🌱 I’m currently learning DSA and NodeJs.
