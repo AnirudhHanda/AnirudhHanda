@@ -35,7 +35,7 @@
  <a href="https://github.com/AnirudhHanda"><img alt="Anrudh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnirudhHanda&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/AnirudhHanda"><img alt="Anirudh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhHanda&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnirudhHanda&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anirudh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnirudhHanda&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
     
 <h3 align="left">Connect with me:</h3>
