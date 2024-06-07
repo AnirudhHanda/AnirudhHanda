@@ -10,25 +10,23 @@
 <img src="https://github.com/AnirudhHanda/AnirudhHanda/blob/main/active_2.gif" width="300" align="right">
 
 
-### Hi there, I'm [Your Name] 👋
-
-🔭 I’m currently working on Full-Stack Development using React, Next.js, and Spring Boot.
-🌱 I’m currently learning DevOps, Docker, Kubernetes, AWS Cloud, Deployment, System Design, and always improving my DSA skills.
-👯 I’m looking to collaborate on Open-Source projects.
-🤔 I’m looking for help with advanced React and DevOps practices.
-💬 Ask me about HTML, CSS, JavaScript, Java, and Spring Framework.
-📫 How to reach me: Want to collaborate or just want to say Hi, my inbox is open.
-😄 Pronouns: His/He/Him
-⚡ Fun fact: Sometimes I play Harmonica just to lose objectivity.
+🔭 I’m currently working on Full-Stack Development using React, Next.js, and Spring Boot.  
+🌱 I’m currently learning DevOps, Docker, Kubernetes, AWS Cloud, Deployment, System Design, and always improving my DSA skills.  
+👯 I’m looking to collaborate on Open-Source projects.  
+🤔 I’m looking for help with advanced React and DevOps practices.  
+💬 Ask me about HTML, CSS, JavaScript, Java, and Spring Framework.  
+📫 How to reach me: Want to collaborate or just want to say Hi, my inbox is open.  
+😄 Pronouns: His/He/Him  
+⚡ Fun fact: Sometimes I play Harmonica just to lose objectivity.  
 😎 I love to Paint, Draw, and stargaze in the middle of the night.
 
 ---
 
-🎓 CSE Student @ SMVDU | Class of '25
-🌟 5⭐️ HackerRank | 9+ GPA
+🎓 CSE Student @ SMVDU | Class of '25  
+🌟 5⭐️ HackerRank | 9+ GPA  
 
-📂 Check out my latest project: **SMVDU IGNITE** - A resource-sharing platform for students, built with Spring Boot, React, PostgreSQL, AWS S3, and deployed on Vercel and Railway Cloud.
-Link -> https://smvdu-ignite.vercel.app/
+📂 Check out my latest project: [SMVDU IGNITE](https://smvdu-ignite.vercel.app/) - A resource-sharing platform for students, built with Spring Boot, React, PostgreSQL, AWS S3, and deployed on Vercel and Railway Cloud.
+
 ---
 
 ### Technologies & Tools
