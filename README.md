@@ -10,15 +10,15 @@
 <img src="https://github.com/AnirudhHanda/AnirudhHanda/blob/main/active_2.gif" width="300" align="right">
 
 
-🔭 I’m currently working on Full-Stack Development using React, Next.js, and Spring Boot.  
-🌱 I’m currently learning DevOps, Docker, Kubernetes, AWS Cloud, Deployment, System Design, and always improving my DSA skills.  
-👯 I’m looking to collaborate on Open-Source projects.  
-🤔 I’m looking for help with advanced React and DevOps practices.  
-💬 Ask me about HTML, CSS, JavaScript, Java, and Spring Framework.  
-📫 How to reach me: Want to collaborate or just want to say Hi, my inbox is open.  
-😄 Pronouns: His/He/Him  
-⚡ Fun fact: Sometimes I play Harmonica just to lose objectivity.  
-😎 I love to Paint, Draw, and stargaze in the middle of the night.
+- 🔭 I’m currently working on Full-Stack Development using React, Next.js, and Spring Boot.  
+- 🌱 I’m currently learning DevOps, Docker, Kubernetes, AWS Cloud, Deployment, System Design, and always improving my DSA skills.  
+- 👯 I’m looking to collaborate on Open-Source projects.  
+- 🤔 I’m looking for help with advanced React and DevOps practices.  
+- 💬 Ask me about HTML, CSS, JavaScript, Java, and Spring Framework.  
+- 📫 How to reach me: Want to collaborate or just want to say Hi, my inbox is open.  
+- 😄 Pronouns: His/He/Him  
+- ⚡ Fun fact: Sometimes I play Harmonica just to lose objectivity.  
+- 😎 I love to Paint, Draw, and stargaze in the middle of the night.
 
 ---
 
