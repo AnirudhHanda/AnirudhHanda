@@ -1,7 +1,7 @@
 ![](https://github.com/AnirudhHanda/AnirudhHanda/blob/main/banner.png) 
 
 <h1 align="center">Hi fellas!, I'm Anirudh Handa 👋</h1>
-<h3 align="center">A Zealous Software Developer from India.</h3>
+<h3 align="center">A FullStack Software Developer from India.</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developer;Java+Enthusiast;Learning+DSA;Video+Editor&center=true&width=500&height=100&size=30&duration=3800)](https://git.io/typing-svg)
 - 👨‍💻 All of my projects are available at https://anirudhhanda.github.io/Portfolio/
@@ -10,15 +10,46 @@
 <img src="https://github.com/AnirudhHanda/AnirudhHanda/blob/main/active_2.gif" width="300" align="right">
 
 
-- 🔭 I’m currently working on Front-End Development and Java.
-- 🌱 I’m currently learning DSA and NodeJs.
-- 👯 I’m looking to collaborate on Open-Source projects.
-- 🤔 I’m looking for help with React framework.
-- 💬 Ask me about HTML, CSS, JavaScript and Java.
-- 📫 How to reach me: Want to collaborate or Just wanna say Hi, my inbox is open. 
-- 😄 Pronouns: His/He/Him
-- ⚡ Fun fact: Somtimes I play Harmonica just to loose objectivity.
-- 😎 I love to Paint, Draw and staring at stars in the middle of night.
+### Hi there, I'm [Your Name] 👋
+
+🔭 I’m currently working on Full-Stack Development using React, Next.js, and Spring Boot.
+🌱 I’m currently learning DevOps, Docker, Kubernetes, AWS Cloud, Deployment, System Design, and always improving my DSA skills.
+👯 I’m looking to collaborate on Open-Source projects.
+🤔 I’m looking for help with advanced React and DevOps practices.
+💬 Ask me about HTML, CSS, JavaScript, Java, and Spring Framework.
+📫 How to reach me: Want to collaborate or just want to say Hi, my inbox is open.
+😄 Pronouns: His/He/Him
+⚡ Fun fact: Sometimes I play Harmonica just to lose objectivity.
+😎 I love to Paint, Draw, and stargaze in the middle of the night.
+
+---
+
+🎓 CSE Student @ SMVDU | Class of '25
+🌟 5⭐️ HackerRank | 9+ GPA
+
+📂 Check out my latest project: **SMVDU IGNITE** - A resource-sharing platform for students, built with Spring Boot, React, PostgreSQL, AWS S3, and deployed on Vercel and Railway Cloud.
+Link -> https://smvdu-ignite.vercel.app/
+---
+
+### Technologies & Tools
+- **Front-End:** HTML, CSS, JavaScript, React
+- **Back-End:** Java, Spring Boot, Node.js
+- **Database:** PostgreSQL
+- **Cloud:** AWS S3
+- **DevOps:** Git & GitHub, Vercel, Railway Cloud
+
+### Current Focus
+- **Learning:** DSA, Node.js, and React framework
+- **Projects:** Open-Source Contributions, Full-Stack Development
+- **Next Steps:** Exploring DevOps, cloud fundamentals, Docker for containerization, and system design.
+
+---
+
+🌐 Let's connect and collaborate on exciting projects! Always eager to contribute to open-source and learn from the community.
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnirudhHanda&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhHanda&layout=compact)
 
 
 <h2 align="left">Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
