@@ -3,7 +3,10 @@
 <h1 align="center">Hi fellas!, I'm Anirudh Handa 👋</h1>
 <h3 align="center">A FullStack Software Developer from India.</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developer;Java+Enthusiast;Learning+DSA;Video+Editor&center=true&width=500&height=100&size=30&duration=3800)](https://git.io/typing-svg)
+<div align="center">
+    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developer;Java+Enthusiast;Learning+DSA;Video+Editor&center=true&width=500&height=100&size=30&duration=3800)](https://git.io/typing-svg)
+</div>
+
 - 👨‍💻 All of my projects are available at https://anirudhhanda.github.io/Portfolio/
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhhanda&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhhanda" /> </p>
 <hr>
