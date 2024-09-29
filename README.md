@@ -76,7 +76,5 @@
 <a href="https://www.youtube.com/c/royale harmonica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="royale harmonica" height="35" width="45" /></a>
 <a href="https://www.hackerrank.com/anirudh handa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anirudh handa" height="35" width="45" /></a>
 </p>
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Anirudh117&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
     
 
